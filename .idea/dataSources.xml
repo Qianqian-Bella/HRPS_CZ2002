@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Class-Diagram-cz2002" uuid="74fb8c71-44d8-4c12-82d0-d2d72a0cfcf9">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/class_diagram/Class-Diagram-cz2002.vpp</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Sequence-Diagram-cz2002" uuid="97d73aaf-e374-49d5-ab2b-f54976919d1a">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/class_diagram/Sequence-Diagram-cz2002.vpp</jdbc-url>
+    </data-source>
+  </component>
+</project>
